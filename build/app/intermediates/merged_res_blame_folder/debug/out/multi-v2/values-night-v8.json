@@ -4,7 +4,7 @@
             "outputFile": "com.echoonetango.mi_flutter_app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tanay\\StudioProjects\\mi_flutter_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\tanay\\Downloads\\Flutter-app-Info-app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
